@@ -1,0 +1,5 @@
+# Color table, to set the color for tasks with different levels, https://htmlcolorcodes.com/color-names/
+color_table:
+  1: '#4682B4'
+  2: '#FF7F50'
+  3: '#006400'

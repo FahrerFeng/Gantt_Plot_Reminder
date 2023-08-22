@@ -1,0 +1,24 @@
+# Name of the project
+project_name: My Project
+
+# How many days before the start date of the task to send you the notifications
+early_remind_time: 3
+
+# How many days before the end date of the task to stop sending you notifications
+last_remind_time: 1
+
+# On which weekdays the reminder send the notification
+remind_weekdays:
+  - 1   # Monday
+  - 2   # Tuesday
+  - 3   # Wednesday
+  - 5   # Friday
+
+# What time do you want to get the notification
+remind_time_points:
+  - '09:00'
+  - '15:30'
+  - '20:51'
+  - '20:55'
+  - '20:57'
+  - '21:07'
