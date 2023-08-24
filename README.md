@@ -9,7 +9,7 @@ conda env create -f environment.yml
 
 ## Data Type
 Your task list must be saved as a json file under folder "project_task_json". The file "jobs_lists.json" shows a basic data structure to plot the gantt chart and can also be used for the reminder function. A base json structure for this project is given as:
-```json
+```
   {
     "mission name": ...,
     "index": ...,
